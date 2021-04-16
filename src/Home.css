@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    overflow-x: hidden;
+}
+.home{
+    margin: 0 auto;
+    background-color: #EAEDED;
+}
+.home__image{
+   width: 100%; 
+   mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0) ) ;
+   z-index: -1;
+   margin-bottom: -150px;
+}
+.home__row{
+    display: flex;
+    z-index: 1;
+    margin: auto 5px;
+}  

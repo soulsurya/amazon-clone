@@ -3,12 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
+    "firebase": "^8.4.1",
     "react": "^17.0.2",
+    "react-back-to-top-button": "0.0.14",
+    "react-currency-format": "^1.0.0",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-scroll-up-button": "^1.6.4",
+    "react-stripe-checkout": "^2.6.3",
+    "react-toastify": "^7.0.3",
+    "stripe": "^8.143.0",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
